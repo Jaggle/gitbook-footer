@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-footer",
+  "version": "1.0.0",
+  "description": "A plugin to add footer area into gitbook document pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaggle/gitbook-footer.git"
+  },
+  "keywords": [
+    "gitbook"
+  ],
+  "author": "jaggle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaggle/gitbook-footer/issues"
+  },
+  "homepage": "https://github.com/Jaggle/gitbook-footer#readme"
+}
